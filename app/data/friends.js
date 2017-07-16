@@ -48,7 +48,7 @@ var celebrities = [
 		]
 	}, {
 		"name": "Hugh Jackman",
-		"photo": "https://1.soompi.io/wp-content/uploads/2015/10/hugh-jackman.jpg",
+		"photo": "https://s-media-cache-ak0.pinimg.com/originals/1d/92/b6/1d92b61ed132554292079a963e1d73a1.jpg",
 		"scores": [
 			"3",
 			"3",
